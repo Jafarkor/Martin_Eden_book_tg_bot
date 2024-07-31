@@ -1,0 +1,5 @@
+.env
+venv/
+__pycashe__/
+.vscode/
+.DS_Store
